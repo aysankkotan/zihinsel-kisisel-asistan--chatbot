@@ -7,6 +7,7 @@ Bu uygulama, kullanıcıların zihinsel sağlık konularında destek alabilecekl
 
 https://zihinsel-asistan.streamlit.app/
 
+![Adobe Express - Ekran Kaydı 2025-10-15 00 24 03](https://github.com/user-attachments/assets/82655191-a980-492c-adae-7f23fe94eebe)
 
 
 ## 🚀 Hızlı Başlangıç

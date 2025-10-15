@@ -1,6 +1,5 @@
 # 🧠 Zihinsel Sağlık Asistanı
 
-
 Bu uygulama, kullanıcıların zihinsel sağlık konularında destek alabilecekleri bir sohbet asistanıdır. Google'ın Gemini API'si kullanılarak geliştirilmiştir.
 
 🌍 **Deploy Link:** 

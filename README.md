@@ -48,6 +48,16 @@ https://zihinsel-asistan.streamlit.app/
 - 🤖 Akıllı sohbet asistanı
 - 🧠 Zihinsel sağlık odaklı yanıtlar
 - 🔒 Gizlilik odaklı (sohbet geçmişi kaydedilmez)
+
+## 🛠️ Kullanılan Teknolojiler
+
+- **Python** - Programlama Dili
+- **Streamlit** - Web Arayüzü
+- **Google Gemini API** - Yapay Zeka Modeli
+- **python-dotenv** - Ortam Değişkenleri Yönetimi
+- **Streamlit-chat** - Sohbet Arayüzü Bileşenleri
+- **Pillow** - Görüntü İşleme
+- **Google-GenerativeAI** - Google'ın Yapay Zeka API'si
 - 🌙 Karanlık/Aydınlık tema desteği
 
 ## 📝 Gereksinimler

@@ -58,7 +58,31 @@ https://zihinsel-asistan.streamlit.app/
 - **Streamlit-chat** - Sohbet Arayüzü Bileşenleri
 - **Pillow** - Görüntü İşleme
 - **Google-GenerativeAI** - Google'ın Yapay Zeka API'si
-- 🌙 Karanlık/Aydınlık tema desteği
+
+## 📁 Repo Yapısı
+
+```
+zihinsel-kisisel-asistan--chatbot/
+├── app.py                 # Streamlit uygulama dosyası
+├── requirements.txt       # Gerekli Python paketleri
+├── .env                  # Çevresel değişkenler (git'te takip edilmez)
+├── .gitignore            # Git tarafından yok sayılacak dosyalar
+└── README.md             # Bu dosya
+```
+
+## 📊 Veri Seti ve Metodoloji
+
+Bu projede, Google'ın güçlü yapay zeka modeli **Gemini** kullanılmıştır. Model, geniş bir veri kümesi üzerinde eğitilmiş olup, kullanıcı etkileşimlerinden öğrenerek sürekli kendini geliştirmektedir.
+
+### Veri Kaynakları
+- **Genel İnternet Verileri**: Çeşitli güvenilir kaynaklardan toplanan geniş kapsamlı metin verileri
+- **Bilimsel Yayınlar**: Psikoloji ve zihinsel sağlık alanındaki akademik çalışmalar
+- **Lisanslı Veri Setleri**: Eğitim sürecinde kullanılan özel lisanslı veri kümeleri
+
+### Gizlilik ve Etik
+- Kullanıcı sohbet verileri kaydedilmemekte veya saklanmamaktadır
+- Tüm etkileşimler anonim olarak işlenmektedir
+- Tıbbi teşhis veya tedavi önerisi sunulmamaktadır
 
 ## 📝 Gereksinimler
 

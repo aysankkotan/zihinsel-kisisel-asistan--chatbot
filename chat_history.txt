@@ -1,0 +1,5 @@
+assistant:Merhaba! Ben Zihinsel Sağlık Asistanınızım. Bugün nasıl hissediyorsunuz?
+user:teşekkürler, gayet iyiyim.
+assistant:Harika! Bunu duyduğuma çok sevindim. Kendinizi iyi hissetmeniz ne güzel.
+
+Unutmayın, herhangi bir zamanda destek, bilgi veya sadece konuşmak isterseniz buradayım.
